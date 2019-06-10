@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dessert Sehatku</string>
+    <string name="data_received">data</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="ingrediant">Bahan - Bahan</string>
+    <string name="procedures">Prosedur Pembuatan</string>
+    <string name="nutrition">Nutrisi</string>
+</resources>
